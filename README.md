@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/X2KYuCmm)
+![Project Stars](https://img.shields.io/github/stars/4kauanmota/ticTacToe?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/tictacToe?color=1e90ff)
+
+# 📄 **Informations**
+**This project was made by me for my university in a a.i. class. The topic is use machine learning to create a multilayer predict model**
+
+# ✨ **Features**
++ Prediction model
+
+# 💻 **Technologies**
++ `HTML`
++ `JAVASCRIPT`
++ `TENSORFLOW`
++ `VISUAL STUDIO CODE`
+
+**You can test the prediction model by clicking [HERE](https://predictionmodelai.bohr.io)**
