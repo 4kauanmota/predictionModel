@@ -1,4 +1,4 @@
-![Project Stars](https://img.shields.io/github/stars/4kauanmota/predictionModelAI?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/predictionModelAI?color=1e90ff)
+![Project Stars](https://img.shields.io/github/stars/4kauanmota/predictionModel-AI?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/predictionModelAI?color=1e90ff)
 
 # 📄 **Informations**
 **This project was made by me for my university in a a.i. class. The topic is use machine learning to create a multilayer predict model**
